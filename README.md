@@ -4,6 +4,14 @@ A fun, interactive virtual drum kit web application built using HTML, CSS, and J
 
 ---
 
+## 🛠️ Tech Stack
+
+- **HTML5**: For the structure of the drum kit web app.
+- **CSS3**: For styling and responsive design to ensure the app works across devices.
+- **JavaScript**: For sound playback, handling keyboard/mouse events, and animations.
+
+---
+
 ## 🔑 Features
 
 - Click or press keys (`w`, `a`, `s`, `d`, `j`, `k`, `l`) to play different drum sounds  
@@ -74,12 +82,6 @@ The drum kit app is designed with a clean, responsive layout. Each drum pad is s
 2. Click on any of the drum pads or press the corresponding key (`w`, `a`, `s`, `d`, `j`, `k`, `l`) on your keyboard.
 3. The corresponding sound will play, and the drum pad will visually "press down" with an animation.
 
----
 
-## 🛠️ Tech Stack
-
-- **HTML5**: For the structure of the drum kit web app.
-- **CSS3**: For styling and responsive design to ensure the app works across devices.
-- **JavaScript**: For sound playback, handling keyboard/mouse events, and animations.
 
 
