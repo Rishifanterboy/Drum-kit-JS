@@ -25,7 +25,7 @@ A fun, interactive virtual drum kit built using HTML, CSS, and JavaScript. Play 
 | k   | Kick Bass  |
 | l   | Crash      |
 
----
+```
 
 ## 📂 Project Structure
 
@@ -41,3 +41,4 @@ drum-kit-js/
 │   └── ...
 └── /images/           # Background images for drum buttons
 
+```
